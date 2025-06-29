@@ -1,0 +1,14 @@
+
+{
+  "name": "Nameapp PWA",
+  "short_name": "NamwPWA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3367D6",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "448x512",
+    "type": "image/png"
+  }]
+}
